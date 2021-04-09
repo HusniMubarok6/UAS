@@ -1,5 +1,5 @@
 # UAS
-SAYA DRI KELOMPOK 4
+SAYA DRI KELOMPOK 3
 Di aplikasi yg kita buat memiliki 3 file Index.php yg fungsinya berbeda beda 
 
 file Index.php ke 1 
